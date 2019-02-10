@@ -1,5 +1,5 @@
 
-# setup 
+# setup
 (my computer: mac osx)
 
 download python 3 anaconda
@@ -8,4 +8,5 @@ download python 3 anaconda
 
 # demonstration
 
-![alt text](./images/first.png)
+![](images/video.gif)
+![](images/video2.gif)
